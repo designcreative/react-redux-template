@@ -11,7 +11,7 @@ class ItemDetail extends Component {
         <h2>{this.props.item.title}</h2>
         <h4>Category: {this.props.item.category}</h4>
         <p>{this.props.item.description}</p>
-        <button>{this.props.item.price}</button>
+        <button>Buy this for ${this.props.item.price}</button>
       </div>
     )
   }
