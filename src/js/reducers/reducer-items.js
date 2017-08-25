@@ -4,7 +4,7 @@ export default function() {
       id: 1,
       title: 'Juno – Minimal Portfolio Muse Theme',
       category: 'Muse',
-      description: 'Juno is a One page Adobe Muse Template with a professional look. Images, colors, textures, content or all very easy to customize without writing any code. Features: Parallax scrolling, Sticky menu, Use over 100 fonts from Typekit, Drag & drop your content'
+      description: 'Juno is a One page Adobe Muse Template with a professional look. Images, colors, textures, content or all very easy to customize without writing any code. Features: Parallax scrolling, Sticky menu, Use over 100 fonts from Typekit, Drag & drop your content',
       price: 14
     },
     {

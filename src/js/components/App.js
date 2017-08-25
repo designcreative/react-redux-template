@@ -1,7 +1,7 @@
 import React from 'react';
 import ItemList from '../containers/item-list';
 import ItemDetail from '../containers/item-detail';
-require('../../sass/style.sass');
+require('../../scss/main.scss');
 
 const App = () => {
   <div>
